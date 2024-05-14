@@ -6,9 +6,9 @@
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/vaishnavijadhav1102/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
-<!--- ### Little More About Me  
+### About Me  
 
-I am a coding and problem solving enthusiast . I love meeting new people and learning new things. I'm good at Team Building and collaboration.  I also love Hackathons (Who doesn't love Pizzas and Swags). 
+As an undergraduate B.Tech Computer Science student, I am deeply passionate about programming, data analysis, and the limitless possibilities they offer. Proficient in C++, Python, and AI/ML, I thrive on tackling complex problems and crafting innovative solutions. I excel in team building and collaboration.  I also love Hackathons (Who doesn't love Pizzas and Swags).
 
 ### Programming Languages :scroll:
 
@@ -20,43 +20,22 @@ I am a coding and problem solving enthusiast . I love meeting new people and lea
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
 
-### Database Systems :bar_chart:
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
 
 ### Tools and Frameworks :hammer:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
 ### Honors and Award :trophy:
 
-1. **Smart India Finalist 2020 - Software Edition**
-   - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
-   - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
-2. **First Place - Daksh Smart Finance Hackathon (2020)**
-   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
-3. **Fourth Place - St. Peter's Hackathon (2019)**
-   - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
-4. **Third Place - SSN IEEE Hack & Tackle (2019)**
-   - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
-5. **Founder and Lead - Active Specialized Support Group (ASSG)**
-   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
----!>
+1. **FinXthon National Runner Up 2023**
+   - :round_pushpin:&nbsp;&nbsp; Won the second place for Problem Statement: How to keep Businesses safe and secure using Next-Gen Technologies with a prize of Rs 1,00,000 (2023). 
+2. **First Place - TON Challenge by HackCBS 6.0**
+   - 🥇 &nbsp;&nbsp; Won the First Place in a 36-hour Hackathon at the TON Challenge **HackCBS 6.0** with a prize of Rs 10,000 (2023).
+3. **Top 25 Of 150 teams - SIH 2023**
+   - 💪 &nbsp;&nbsp;Qualified and submitted the end to end solution for the Problem Statement - Centralized IT System Log Analyser.
+4. **Flipkart Grid 5.0**
+   - 	🙌 &nbsp;&nbsp;Reached the national level in Flipkart Grid 5.0, ranking 256 out of 22,280 teams in Information Security Track and created LogGPT for the Problem Statement - Compliance monitoring and detection using log analysis through Large Language Models.
