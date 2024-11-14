@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### Vaishnavi Jadhav (She/Her)
-- 🔭 I’m a Pre Final Year Student from Bennett University.
+- 🔭 I’m a Final Year Student from Bennett University.
 - 💬 Let's talk about Language Technologies, Solving problems and participating in new experiences.
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/vaishnavijadhav1102/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
