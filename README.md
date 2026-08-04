@@ -8,7 +8,7 @@
 
 ### About Me  
 
-As an undergraduate B.Tech Computer Science student, I am deeply passionate about programming, data analysis, and the limitless possibilities they offer. Proficient in C++, Python, and AI/ML, I thrive on tackling complex problems and crafting innovative solutions. I excel in team building and collaboration.  I also love Hackathons (Who doesn't love Pizzas and Swags).
+As an undergraduate B.Tech Computer Science student, I am deeply passionate about programming, data analysis, and the limitless possibilities they offer. Proficient in C++, Python, and AI/ML, I thrive on tackling complex problems and crafting innovative solutions. I excel in team building and collaboration.  I also love Hackathons.
 
 ### Programming Languages :scroll:
 
